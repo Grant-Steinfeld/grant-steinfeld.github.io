@@ -25,17 +25,16 @@ listen. I code, empower, document, listen and learn, am engaged and engaging - o
 
 Learn more, by checking out my:  
 
+* [GitHub](https://www.github.com/grant-steinfeld)
+
 * [LinkedIn profile](https://www.linkedin.com/in/grant-steinfeld)
 
+* [my bio](./bio-cv-etc/GrantSteinfeldBio.md) 
 
-* [my bio](./bio-cv-etc/GrantSteinfeldBio.html) some [recent courses
-and certifications](./edu/index.html)
+Follow me on twitter [@gsteinfeld](https://twitter.com/gsteinfeld)
 
-Other thing's you'll find me involved with, health, gyrotonic teaching ,
-
-[photography](./photos/index.html) and making all sorts of things,
-wasabi-analog style, from furniture, to boats to [bespoke IoT
-devices.](./bio-cv-etc/Sentinella.html)
+Other thing's you'll find me involved with, exercising my Physical Therapist skills, training gyrotonic student, photography and making all sorts of things,
+wasabi-analog style ( wood, steel and 3d printing/milling), from furniture, to boats, to bespoke IoT hardware solutions.
 
 * * * * *
 
