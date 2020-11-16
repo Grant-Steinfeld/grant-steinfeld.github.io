@@ -2,9 +2,9 @@
 
 ![Grant Presenting](./photos/grant.png)
 
-Hi, I'm Grant
+Hi, I'm Grant.
 
-I am a `DevOps Architect` and a `Cloud Engineer`
+I am a `DevOps Architect` and a `Cloud Engineer`.
 
 Learning new and challenging things everyday is for me a fundamental part of my life. I love to share
 my learnings, mentorship and co-creating magic in collaborative settings is one of my core values.
@@ -37,5 +37,5 @@ wasabi-analog style ( hand tooling wood, welding metal as well and 3d printing/m
 
 * * * * *
 
-> © Copyright, Grant Steinfeld. Design inspired by @clarapwd This page
-> was Last updated on 11/15/2020, New York City, NY, USA 
+> © Copyright, Grant Steinfeld. Design inspired by @clarapwd
+> This page was Last updated on 11/15/2020, New York City, NY, USA 
