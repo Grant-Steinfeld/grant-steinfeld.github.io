@@ -1,4 +1,4 @@
-#Grant Steinfeld - Biography
+## Grant Steinfeld - Biography
 
 
 > DevOps Architect, Cloud Engineer, primarily focusing on server-side technology, with a track record of building elegant yet robust spaces for scalable systems and collaborative innovation. I'm curious tinkerer, with experience in scalable architecture and breadth in all things technology and frameworks. Strong agile software design and development skills focusing on languages: Python, PowerShell, C#, TypeScript and JavaScript. Adept as an individual contributor as well as leading, managing and mentoring development teams.
