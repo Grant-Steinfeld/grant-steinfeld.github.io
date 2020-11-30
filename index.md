@@ -33,7 +33,7 @@ Learn more, by checking out my:
 If you like, please follow me on twitter [@gsteinfeld](https://twitter.com/gsteinfeld)
 
 Other thing's you'll find me involved with, practicing my Physical Therapist skills, training Gyrotonic students, photography, and making all sorts of things
-wasabi-analog style ( hand tooling wood, welding metal as well and 3d printing/milling): making furniture, boats and bespoke IoT hardware/cloud solutions.
+wabi-sabi analog style (hand-tooling wood, welding metal as well and 3d printing/milling): making furniture, boats and bespoke IoT hardware/cloud solutions.
 
 * * * * *
 
