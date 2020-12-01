@@ -1,8 +1,7 @@
 ## Grant Steinfeld - Biography
 
 
-> DevOps Architect, Cloud Engineer, primarily focusing on server-side technology, with a track record of building elegant yet robust spaces for scalable systems and collaborative innovation. I'm curious tinkerer, with experience in scalable architecture and breadth in all things technology and frameworks. Strong agile software design and development skills focusing on languages: Python, PowerShell, C#, TypeScript and JavaScript. Adept as an individual contributor as well as leading, managing and mentoring development teams.
-
+> DevOps Architect, Cloud Engineer, primarily focusing on server-side technology, with a track record of building elegant yet robust spaces for scalable systems and collaborative innovation. I'm curious tinkerer, with experience in scalable architecture and breadth in all things technology and frameworks. Strong agile software design and development skills focusing on languages: Python, PowerShell, C#, TypeScript and JavaScript. Primarily interested in individual contributor roles where I am given the space to innovate and stay close to technology. I love mentoring and being mentored. However, I will only manage if it does not take me away from technology and innovation.
 
 > With over two decades experience, my focus has been on backend systems – middleware and Enterprise Integration Patterns and databases are a core passion.  Early adopter and champion for Blockchain technologies, primarily permissioned private topologies. Administrator, advocate and SmartContract programmer in particular, Hyperledger Fabric Blockchain.
 
