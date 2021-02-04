@@ -30,7 +30,7 @@ Learn more, by checking out my:
 
 * [My current biography](./bio-cv-etc/GrantSteinfeldBio.md) 
 
-* [Selection of articles/posts](.bio-cv-etc/GrantSteinfeldWriting.md)
+* [Selection of articles/posts](./bio-cv-etc/GrantSteinfeldWriting.md)
 
 If you like, please follow me on twitter [@gsteinfeld](https://twitter.com/gsteinfeld)
 
