@@ -16,7 +16,7 @@ development life-cycle. Fanatic proponent of Test Drive Development and
 Infrastructure as Code to build out CI/CD pipelines for modern
 containerized distributed systems. 
 
-I am an avid Maker and love to conduct hack/make-a-thons. 
+I am an avid Maker and love to conduct hack/make-a-thons. e.g. [Pi Build Monitor](./bio-cv-etc/Sentinella.md)
 
 I have been coding for over two decades, and
 been speaking for almost half of that. I speak all over to whomever will
