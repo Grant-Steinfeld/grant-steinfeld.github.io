@@ -11,3 +11,4 @@
 
 * [Deploy a sample currency exchange app to OpenShift using Red Hat Universal Base Image](https://developer.ibm.com/patterns/deploy-to-openshift-4-redhat-universal-base-image/)
 
+
