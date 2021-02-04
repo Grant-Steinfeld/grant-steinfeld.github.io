@@ -30,6 +30,8 @@ Learn more, by checking out my:
 
 * [My current biography](./bio-cv-etc/GrantSteinfeldBio.md) 
 
+* [Selection of articles/posts](.bio-cv-etc/GrantSteinfeldWriting.md)
+
 If you like, please follow me on twitter [@gsteinfeld](https://twitter.com/gsteinfeld)
 
 Other thing's you'll find me involved with, practicing my Physical Therapist skills, training Gyrotonic students, photography, and making all sorts of things
@@ -38,4 +40,4 @@ wabi-sabi analog style (hand-tooling wood, welding metal as well and 3d printing
 * * * * *
 
 > © Copyright, Grant Steinfeld. Design inspired by @clarapwd
-> This page was Last updated on 11/15/2020, New York City, NY, USA 
+> This page was Last updated on 02/04/2021, Barryville, NY, USA 
