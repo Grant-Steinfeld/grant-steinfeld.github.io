@@ -20,7 +20,7 @@ I am an avid Maker and love to conduct hack/make-a-thons. e.g. [Pi Build Monitor
 
 I have been coding for over two decades, and
 been speaking for almost half of that. I speak all over to whomever will
-listen. I code, empower, document, listen and learn, am engaged and engaging - often not in that exact sequence. 
+listen. I design, architect and code, empower, document, listen and learn, I am engaged and engaging - often not in that exact sequence. 
 
 Learn more, by checking out my:  
 
@@ -28,14 +28,15 @@ Learn more, by checking out my:
 
 * [LinkedIn profile](https://www.linkedin.com/in/grant-steinfeld)
 
+* [Selection of articles/posts](./bio-cv-etc/GrantSteinfeldWriting.md)
+
 * [My current biography](./bio-cv-etc/GrantSteinfeldBio.md) 
 
-* [Selection of articles/posts](./bio-cv-etc/GrantSteinfeldWriting.md)
+
 
 If you like, please follow me on twitter [@gsteinfeld](https://twitter.com/gsteinfeld)
 
-Other thing's you'll find me involved with, practicing my Physical Therapist skills, training Gyrotonic students, photography, and making all sorts of things
-wabi-sabi analog style (hand-tooling wood, welding metal as well and 3d printing/milling): making furniture, boats and bespoke IoT hardware/cloud solutions.
+Other thing's you'll find me involved with, practicing my Physical Therapist skills, training Gyrotonic students, photography, and making all sorts of things wabi-sabi && analog style (hand-tooling wood, welding, as well and 3d printing/milling): making furniture, small boats and bespoke IoT hardware interacting with cloud solutions.
 
 * * * * *
 
