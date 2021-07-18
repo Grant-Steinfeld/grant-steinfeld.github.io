@@ -5,6 +5,7 @@
 Hi, I'm Grant.
 
 I am a Software Engineer, passionate about technology, in particular, Design, Architecture, Data, Automation and Cloud Engineering.
+I am also anexercise enthusiat, a part time GYROTONIC® trainer and a New York State Physical Therapist 
 
 Learning new and challenging things everyday is for me a fundamental part of my life. I love to share
 my learnings, mentorship and co-creating magic in collaborative settings is one of my core values.
@@ -33,9 +34,9 @@ Learn more, by checking out my:
 
 If you like, please follow me on twitter [@gsteinfeld](https://twitter.com/gsteinfeld)
 
-Other thing's you'll find me involved with, practicing my Physical Therapist skills, teaching Gyrotonic students, photography, and making all sorts of things wabi-sabi && analog style (hand-tooling wood, gas welding, as well and 3d printing/milling), to make fun projects like, furniture, small boats and bespoke cloud connected IoT hardwarecloud solutions.
+Other thing's you'll find me involved with, swimming, working my Physical Therapist skills, part time teaching GYROTONIC® students, photography, and making all sorts of things wabi-sabi && analog style (carpentry, tree husbandry, hand-tooling wood, gas welding, as well and 3d printing/milling)  I love to make fun projects like, furniture, small boats and bespoke cloud connected IoT hardwarecloud solutions.
 
 * * * * *
 
 > © Copyright, Grant Steinfeld. Design inspired by @clarapwd
-> This page was Last updated on 05/19/2021, Barryville, NY, USA 
+> This page was Last updated on 07/18/2021, Barryville, NY, USA 
